@@ -1,0 +1,41 @@
+---
+thumbnail: "images/poster-accessibility-sofa-wide.webp"
+---
+
+
+
+#### How can we make scientific poster sessions more accessible to scientists with disabilities?
+
+
+[Our study](https://figshare.com/articles/poster/Conference_presentation_accessibility/21892881) of 400+ conference attendees uncoverd:
+* Many scientists attending academic meetings have invisible accessibility needs
+* People often have multiple accessibility needs (mobility and vision inpairment)
+* The billboard-style "betterposter v1.5" was rated as the most accessible
+* People with mobility needs really just wanted a place to sit down
+
+
+### YouTube short summary here:
+https://youtube.com/shorts/aB7N_kZRl5o?si=6GAvLygo0Fh80Fb-
+
+:::{iframe} https://www.youtube.com/embed/aB7N_kZRl5o?si=7lL9heGJq3v22Zj4
+:width: 100%
+Get up and running with MyST in Jupyter!
+:::
+
+### Poster and talk video here:
+:::{iframe} https://widgets.figshare.com/articles/21892881/embed?show_title=0
+:width: 100%
+Get up and running with MyST in Jupyter!
+:::
+
+
+https://youtube.com/shorts/
+
+<iframe width="315" height="560"
+src=""
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+
+

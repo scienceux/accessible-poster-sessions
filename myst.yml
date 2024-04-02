@@ -1,0 +1,21 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 7b50c371-cf79-45e6-a5e0-30564857ebd5
+  title: "Add seats and billboard-posters to make poster sessions more accessible."
+  description: "Links to video and text summaries of our study of 400+ conference attendees with accessibility needs."
+  banner: "images/poster-accessibility-sofa-wide.png"
+  keywords: []
+  authors: []
+  # github:
+  # bibliography: []
+site:
+  template: article-theme
+  # title:
+  # options:
+  #   logo: site_logo.png
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://mystmd.org/guide
+  domains: []

@@ -1,0 +1,120 @@
+{
+  "input": {
+    "venue": "scienceux",
+    "opts": {
+      "yes": false,
+      "resume": false,
+      "maxSizeWebp": 1048576000
+    }
+  },
+  "workId": "018e9ef3-2f02-7fa8-a44a-86c97a4a8a24",
+  "workVersionId": "018e9ef3-2f02-7fa8-a44a-86cabd10aa91",
+  "submissionId": "018e9ef3-316e-736c-ae90-0d140de65b5c",
+  "submissionVersionId": "018e9ef3-316e-736c-ae90-0d132fed51b2",
+  "key": "7b50c371-cf79-45e6-a5e0-30564857ebd5",
+  "venue": "scienceux",
+  "kind": {
+    "id": "018baac7-36e2-7f1f-b8fa-1fc9f5d73c84",
+    "date_created": "2023-11-07T17:14:24.354Z",
+    "name": "Post",
+    "default": true,
+    "checks": [],
+    "links": {
+      "self": "https://sites.curvenote.com/v1/sites/scienceux/kinds/018baac7-36e2-7f1f-b8fa-1fc9f5d73c84",
+      "site": "https://sites.curvenote.com/v1/sites/scienceux"
+    }
+  },
+  "source": {
+    "repo": "github.com/scienceux/accessible-poster-sessions",
+    "branch": "master",
+    "path": "",
+    "commit": "03bbed8"
+  },
+  "job": {
+    "id": "018e9ef3-08f5-7cd5-80dd-9acf975bf5f3",
+    "date_created": "2024-04-02T13:15:11.478Z",
+    "date_modified": "2024-04-02T13:15:22.445Z",
+    "job_type": "CLI_CHECK",
+    "status": "COMPLETED",
+    "payload": {
+      "key": "7b50c371-cf79-45e6-a5e0-30564857ebd5",
+      "kind": {
+        "id": "018baac7-36e2-7f1f-b8fa-1fc9f5d73c84",
+        "name": "Post",
+        "links": {
+          "self": "https://sites.curvenote.com/v1/sites/scienceux/kinds/018baac7-36e2-7f1f-b8fa-1fc9f5d73c84",
+          "site": "https://sites.curvenote.com/v1/sites/scienceux"
+        },
+        "checks": [],
+        "default": true,
+        "date_created": "2023-11-07T17:14:24.354Z"
+      },
+      "site": "scienceux",
+      "source": {
+        "path": "",
+        "repo": "github.com/scienceux/accessible-poster-sessions",
+        "branch": "master",
+        "commit": "03bbed8"
+      },
+      "collection": {
+        "id": "018e65af-9448-7f44-9d00-a1a1bf56bdaf",
+        "name": "articles",
+        "open": true,
+        "slug": "",
+        "kinds": [
+          {
+            "id": "018baac7-36e2-7f1f-b8fa-1fc9f5d73c84",
+            "name": "Post",
+            "links": {
+              "self": "https://sites.curvenote.com/v1/sites/scienceux/kinds/018baac7-36e2-7f1f-b8fa-1fc9f5d73c84",
+              "site": "https://sites.curvenote.com/v1/sites/scienceux"
+            },
+            "default": true
+          }
+        ],
+        "links": {
+          "self": "https://sites.curvenote.com/v1/sites/scienceux/collections/018e65af-9448-7f44-9d00-a1a1bf56bdaf",
+          "site": "https://sites.curvenote.com/v1/sites/scienceux"
+        },
+        "content": {
+          "title": "Articles",
+          "description": "A collection of research articles"
+        },
+        "default": true,
+        "date_created": "2024-03-22T10:23:09.378Z",
+        "date_modified": "2024-03-22T10:23:09.378Z",
+        "num_published": 1
+      }
+    },
+    "results": {
+      "cdnKey": "018e9ef3-1889-7a6e-b835-33ca6d43d03b",
+      "checks": {
+        "kind": {
+          "id": "018baac7-36e2-7f1f-b8fa-1fc9f5d73c84",
+          "name": "Post",
+          "links": {
+            "self": "https://sites.curvenote.com/v1/sites/scienceux/kinds/018baac7-36e2-7f1f-b8fa-1fc9f5d73c84",
+            "site": "https://sites.curvenote.com/v1/sites/scienceux"
+          },
+          "checks": [],
+          "default": true,
+          "date_created": "2023-11-07T17:14:24.354Z"
+        },
+        "venue": "scienceux"
+      },
+      "workId": "018e9ef3-2f02-7fa8-a44a-86c97a4a8a24",
+      "submissionId": "018e9ef3-316e-736c-ae90-0d140de65b5c",
+      "workVersionId": "018e9ef3-2f02-7fa8-a44a-86cabd10aa91",
+      "submissionVersionId": "018e9ef3-316e-736c-ae90-0d132fed51b2"
+    },
+    "messages": [
+      "Uploading work files to cdn",
+      "Creating new work and submission entry",
+      "Submission completed"
+    ],
+    "links": {
+      "self": "https://sites.curvenote.com/v1/jobs/018e9ef3-08f5-7cd5-80dd-9acf975bf5f3"
+    }
+  },
+  "buildUrl": "https://sites.curvenote.com/build/018e9ef3-08f5-7cd5-80dd-9acf975bf5f3"
+}
